@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CTE",
+    "PDF",
+    "AWG"
+  ],
+  "key" : {
+    "C": {
+      "tag": "minecraft:coral_blocks"
+    },
+    "F": {
+      "tag": "minecraft:flowers"
+    },
+    "W": {
+      "item": "minecraft:wither_rose"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "T": {
+      "item": "minecraft:tropical_fish_bucket"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "minecraft:grass_block"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "P": {
+      "item": "minecraft:sea_pickle"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:gaia_essence"
+  }
+}

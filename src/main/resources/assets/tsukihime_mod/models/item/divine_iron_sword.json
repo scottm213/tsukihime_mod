@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tsukihime_mod:item/divine_iron_sword"
+  }
+
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key" : {
+    "D": {
+      "item": "tsukihime_mod:raw_divine_iron"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:raw_divine_iron_block"
+  }
+}

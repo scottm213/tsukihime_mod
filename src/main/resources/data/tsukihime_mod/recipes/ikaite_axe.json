@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IIB",
+    "ISB",
+    "BSB"
+  ],
+  "key" : {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "tsukihime_mod:ikaite"
+    },
+    "B": {
+      "item": "tsukihime_mod:biblical_verse"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:ikaite_axe"
+  }
+}

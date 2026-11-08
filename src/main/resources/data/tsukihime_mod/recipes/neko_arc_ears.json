@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RGR",
+    "W W",
+    "D D"
+  ],
+  "key" : {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "D": {
+      "item": "tsukihime_mod:divine_iron_nugget"
+    },
+    "R": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "G": {
+      "item": "tsukihime_mod:gaia_essence"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:neko_arc_ears"
+  }
+}

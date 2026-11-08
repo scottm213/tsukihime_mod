@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key" : {
+    "D": {
+      "item": "tsukihime_mod:ikaite"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:block_of_ikaite"
+  }
+}

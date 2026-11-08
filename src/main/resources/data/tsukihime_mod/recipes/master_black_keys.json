@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "HBH",
+    "DBD",
+    "DBD"
+  ],
+  "key" : {
+    "H": {
+      "item": "tsukihime_mod:holy_bible"
+    },
+    "D": {
+      "item": "tsukihime_mod:divine_iron"
+    },
+    "B": {
+      "item": "tsukihime_mod:black_keys"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:master_black_keys",
+    "count": 1
+  }
+}

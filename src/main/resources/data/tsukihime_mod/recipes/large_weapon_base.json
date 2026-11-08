@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NNN",
+    "IDI",
+    "NNN"
+  ],
+  "key" : {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "tsukihime_mod:divine_iron"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:large_weapon_base"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {       "item": "minecraft:potato"
+     },
+    {
+      "item": "minecraft:carrot"
+
+    },
+    {
+      "item": "minecraft:beetroot_seeds"
+    }
+  ],
+  "result": {
+    "item": "tsukihime_mod:curry_bread",
+    "count": 3
+  }
+}

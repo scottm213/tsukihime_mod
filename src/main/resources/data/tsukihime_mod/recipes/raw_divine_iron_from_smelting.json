@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "tsukihime_mod:raw_divine_iron"
+  },
+  "result": "tsukihime_mod:divine_iron",
+  "experience": 0.8,
+  "cookingtime": 200
+}

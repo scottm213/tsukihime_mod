@@ -1,0 +1,11 @@
+{
+  "smash": {
+    "sounds": ["tsukihime_mod:smash"]
+  },
+  "shiki_slash_sound": {
+    "sounds": ["tsukihime_mod:shiki_slash_sound"]
+  },
+  "vlov_explosion": {
+    "sounds": ["tsukihime_mod:vlov_explosion"]
+  }
+}

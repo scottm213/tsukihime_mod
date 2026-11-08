@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "D D",
+    "TST",
+    "WIB"
+  ],
+  "key" : {
+    "W": {
+      "item": "minecraft:nether_wart"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "D": {
+      "item": "tsukihime_mod:divine_iron"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "I": {
+      "item": "tsukihime_mod:gaia_essence"
+    },
+    "T": {
+      "item":"minecraft:tinted_glass"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:shiki_glasses"
+  }
+}

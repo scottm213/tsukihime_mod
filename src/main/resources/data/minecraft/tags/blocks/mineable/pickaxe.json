@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tsukihime_mod:divine_iron_ore",
+    "tsukihime_mod:divine_iron_block",
+    "tsukihime_mod:raw_divine_iron_block",
+    "tsukihime_mod:ikaite_ore",
+    "tsukihime_mod:block_of_ikaite"
+  ]
+}

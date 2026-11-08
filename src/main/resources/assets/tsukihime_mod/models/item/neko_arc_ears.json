@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tsukihime_mod:item/neko_arc_ears_inventory"
+  }
+}

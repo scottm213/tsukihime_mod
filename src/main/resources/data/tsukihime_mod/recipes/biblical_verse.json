@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DAD",
+    "MPI",
+    "DAD"
+  ],
+  "key" : {
+    "I": {
+      "item": "minecraft:ink_sac"
+    },
+    "M": {
+      "item": "minecraft:diamond"
+    },
+    "D": {
+      "item": "tsukihime_mod:divine_iron_nugget"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:biblical_verse"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ADI",
+    "HHH",
+    "BKP"
+  ],
+  "key" : {
+    "H": {
+      "item": "tsukihime_mod:large_weapon_base"
+    },
+    "A": {
+      "item": "minecraft:ancient_debris"
+    },
+    "D": {
+      "item": "tsukihime_mod:divine_iron_block"
+    },
+    "I": {
+      "item": "tsukihime_mod:block_of_ikaite"
+    },
+    "B": {
+      "item":"minecraft:blue_ice"
+    },
+    "K": {
+      "item": "tsukihime_mod:ikaite"
+    },
+    "P": {
+      "item": "minecraft:powder_snow_bucket"
+    }
+  },
+  "result": {
+    "item": "tsukihime_mod:vlov_lance"
+  }
+}
